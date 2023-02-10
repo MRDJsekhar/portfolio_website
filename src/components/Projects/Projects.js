@@ -25,10 +25,10 @@ const Projects = () => (
               ))}
             </TagList>
           </div>
-          <UtilityList>
+          {/* <UtilityList>
             <ExternalLinks href={visit}>Code</ExternalLinks>
             <ExternalLinks href={source}>Source</ExternalLinks>
-          </UtilityList>
+          </UtilityList> */}
         </BlogCard>
       ))}
     </GridContainer>
